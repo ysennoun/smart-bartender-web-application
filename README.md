@@ -35,6 +35,4 @@
  
     npm install 
     npm start 
-
-
-npm start server.js
+    npm start server.js
