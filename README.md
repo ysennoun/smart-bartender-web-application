@@ -25,7 +25,7 @@
  
  There are three pages : 
  
- - jpoj
+ - Page summary that summarizes all on-going commands
  - Page commands that shows all on-going commands. It is possible to indicate to waitress the command is ready.
  - Page statistics that shows some statistics to server commands (for instance how long does it take to serve a drink ?)
  
